@@ -1,0 +1,21 @@
+{
+  "app_title": "Islamic",
+  "sura_name": "Surah Name",
+  "quran": "Quran",
+  "hadith": "Hadith",
+  "hadith_name": "Hadith Name",
+  "search_hadith": "Search Hadith",
+  "search_here": "Search here...",
+  "sebha": "Dzikir",
+  "radio": "Radio",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "english": "English",
+  "arabic": "Arabic",
+  "reset": "reset",
+  "sebha_numbers": "Dzikir Numbers",
+  "subhan_allah": "Subhan Allah"
+}
